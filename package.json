@@ -1,0 +1,12 @@
+{
+  "name": "node-dbmate",
+  "version": "1.0.0",
+  "description": "A node wrapper for dbmate",
+  "main": "main.js",
+  "author": "Eddie Naff",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}
