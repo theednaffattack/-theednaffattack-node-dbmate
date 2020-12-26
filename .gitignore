@@ -1,0 +1,5 @@
+# Hide editor settings
+.vscode/settings.json
+
+# Hide node_modules
+node_modules
