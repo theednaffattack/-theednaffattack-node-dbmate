@@ -3,3 +3,6 @@
 
 # Hide node_modules
 node_modules
+
+# Hide logs
+yarn-error.log
